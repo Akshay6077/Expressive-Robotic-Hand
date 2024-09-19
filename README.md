@@ -67,12 +67,12 @@ Software
 
 Code Structure
 
-    Python Code for Gesture Recognition and Serial Communication (gesture_control.py):
+- Python Code for Gesture Recognition and Serial Communication (gesture_control.py):
         Detects hand gestures using MediaPipe.
         Maps distances between fingertips and the palm to servo angles.
         Sends the calculated angles to the Arduino via serial communication.
 
-    Arduino Code for Servo Control (main.ino):
+- Arduino Code for Servo Control (main.ino):
         Receives servo angle data from the Python script via serial.
         Controls the servos based on the received angle data.
 
