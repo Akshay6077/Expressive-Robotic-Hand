@@ -125,4 +125,4 @@ For the Expressive Robotic Hand, our design was created using SolidWorks and the
 
 ![3D Model of Robotic Hand](./parts.jpeg)
 
-![Working Video of the Robotic Hand](./VID20240426171841.mp4)
+![Working Video of the Robotic Hand](./Video.mp4)
